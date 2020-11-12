@@ -1,0 +1,8 @@
+# Fill out this config and rename to "config.yml"
+
+consumer_key: none
+consumer_secret: none
+access_token: none
+access_token_secret: none
+max_characters: 280 # the max amount of characters per generated message, twitter's max is 280
+wait_time: 900 # time before checking for new drops and writing a tweet (in seconds)
